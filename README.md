@@ -16,7 +16,7 @@ This repository contains the Python NLP pipeline and visualization code used to 
 ## Visualizations Generated
 
 The code produces several presentation-ready visualizations:
-* **Data Distribution Bar Charts:** Visualizing the absolute total of selected vs. highly relevant records per historical era.
+* **Data Distribution Bar Charts:** Visualizing the absolute total of database records vs. highly relevant records per historical era.
 * **Context Evolution Line Chart:** Tracing the relative frequency of semantic contexts over time (highlighting shifts like the surge of political heat metaphors during the 1939–1947 wartime era).
 * **Dominant Affective Pairs Heatmap:** Tracking the top form and feeling combinations across the five historical periods to visualize semantic evolution.
 
