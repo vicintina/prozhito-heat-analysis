@@ -2,7 +2,7 @@
 
 A Digital Humanities project tracking the semantic evolution of affective heat, fever, and somatic stress responses in Russian personal narratives (19th–21st centuries). 
 
-This repository contains the Python NLP pipeline and visualization code used to extract, classify, and analyze somatic and metaphorical heat expressions within the [Prozhito](https://prozhito.org/) historical diary corpus. This research was prepared for the ["Feel the Heat. Science and Histories of Fever"](https://www.marsilius-kolleg.uni-heidelberg.de/de/studium/internationale-marsilius-akademien/feel-the-heat-science-and-histories-of-fever) International Marsilius Academy (Heidelberg University, 2026).
+This repository contains the Python NLP pipeline and visualization code used to extract, classify, and analyze somatic and metaphorical heat expressions within the [Prozhito](https://prozhito.org/) historical diary corpus. This analysis was prepared for the ["Feel the Heat. Science and Histories of Fever"](https://www.marsilius-kolleg.uni-heidelberg.de/de/studium/internationale-marsilius-akademien/feel-the-heat-science-and-histories-of-fever) International Marsilius Academy (Heidelberg University, 2026).
 
 ## Methodology
 
