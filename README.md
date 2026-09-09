@@ -12,7 +12,7 @@ This repository contains the Python NLP pipeline and visualization code used to 
   * **Emotional State:** Love, anxiety, excitement, anger, shame.
   * **Context:** Politics, religion, creation, interpersonal.
   
-  (Note: Additional exclusion tags—`subject_other`, `negative`, and `irrelevant`—were applied to identify and filter out non-target records).
+  *Note:* Additional exclusion tags—`subject_other`, `negative`, and `irrelevant`—were applied to identify and filter out non-target records.
 * **Temporal Tracking:** Analysis relies on relative frequencies rather than absolute counts to account for the pronounced chronological asymmetry inherent to the foundational Prozhito database.
 
 ## Visualizations Generated
@@ -27,7 +27,8 @@ The code produces several presentation-ready visualizations:
 * `prozhito_heat.ipynb`: The main Jupyter Notebook containing the data processing, NLP pipeline, statistical calculations, and visualization rendering.
 * `manual_tags.json`: The JSON file containing the manual taxonomy annotations for the extracted records.
 * `Feel_the_Heat_Poster.pdf`: The final research poster presenting the methodology, insights, and visualizations, prepared for the Marsilius Academy.
-* *Note:* Due to file size restrictions, the raw XML Prozhito database dump (`prozhito-dump-1`) is not hosted in this repository.
+
+*Note:* Due to file size restrictions, the raw XML Prozhito database dump (`prozhito-dump-1`) is not hosted in this repository.
 
 ## Requirements
 
