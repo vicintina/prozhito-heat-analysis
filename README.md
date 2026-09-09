@@ -11,6 +11,7 @@ This repository contains the Python NLP pipeline and visualization code used to 
   * **Linguistic Form:** Poetic metaphor, somatic reaction, idiom.
   * **Emotional State:** Love, anxiety, excitement, anger, shame.
   * **Context:** Politics, religion, creation, interpersonal.
+  (Note: Additional exclusion tags—`subject_other`, `negative`, and `irrelevant`—were applied to identify and filter out non-target records).
 * **Temporal Tracking:** Analysis relies on relative frequencies rather than absolute counts to account for the pronounced chronological asymmetry inherent to the foundational Prozhito database.
 
 ## Visualizations Generated
